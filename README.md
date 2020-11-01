@@ -1,6 +1,6 @@
 # GA_planner
 
-​	**A plugin Directory witch meeting the requirement for global_planning of move_base in  ROS Navigation packages ** 
+​	**A plugin Directory witch meeting the requirement for global_planning of move_base in  ROS Navigation packages** 
 
 ## Script
 
