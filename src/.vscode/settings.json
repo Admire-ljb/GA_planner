@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ljb/test_env_ros/devel/lib/python3/dist-packages/"
+    ]
+}
